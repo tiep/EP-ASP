@@ -1,0 +1,104 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%initial states%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+holds(alive,0).
+-holds(wounded,0).
+1{holds(aimed,0); noholds(aimed,0)}1.
+1{holds(loaded,0); noholds(loaded,0)}1.
+
+
+-holds(aimed,0) :- noholds(aimed,0).
+-holds(loaded,0) :- noholds(loaded,0).
+step(0..len):- _heuristic.
+step(0..length) :- not _heuristic.
+ 
+
+max(len) :- _heuristic.
+1{max(len); max(length)}1.
+max(length) :- not _heuristic.
+
+stepless(0..L-1) :- max(L).
+
+
+%%%%%%%  fluents   %%%%%%%%%
+fluent(loaded).
+fluent(alive).
+fluent(wounded).
+fluent(aimed).
+inertial(loaded).
+inertial(alive).
+inertial(wounded).
+inertial(aimed).
+
+%%%%%%%  actions   %%%%%%%%
+action(load).
+action(pull_trigger).
+action(aim).
+
+
+%%%%%%  executable  %%%%%%% 
+executable(pull_trigger,T):-  step(T).
+executable(load,T) :- -holds(loaded,T),step(T).
+executable(aim,T) :- step(T).
+
+%%%%%  effects   %%%%%%%
+holds(aimed, T+1) :- occurs(aim, T), step(T).
+-holds(aimed,T+1) :- occurs(load, T), step(T).
+-holds(aimed, T+1) :- occurs(pull_trigger,T), step(T).
+
+holds(wounded,T+1):- occurs(pull_trigger,T), holds(loaded,T), -holds(wounded,T), holds(alive,T), holds(aimed, T), step(T).
+
+-holds(alive,T+1):-occurs(pull_trigger,T),holds(loaded,T), holds(wounded,T), holds(aimed, T), step(T).
+-holds(loaded,T+1):-occurs(pull_trigger,T),step(T).
+holds(loaded,T+1):-occurs(load,T),step(T).
+
+%%%%% occurs  %%%%%%%
+1{occurs(A,S) : action(A), executable(A,S)} 1 :- stepless(S), _heuristic.
+%1{occurs(A,S) : action(A), executable(A,S)} 1 :- stepless(S).
+
+%%%%% goal  %%%%%%%
+goal :- -holds(alive,LEN), -holds(is_impossible,LEN), max(LEN).
+
+%%%% epistemic %%%%%%%
+
+fluent(is_impossible).
+inertial(is_impossible).
+
+holds(is_impossible,S+1):- step(S), action(A), occurs(A, S), not executable(A, S). 
+
+-holds(is_impossible, 0).  
+
+-holds(F,0):-not  holds(F,0),fluent(F).
+
+holds(F,S+1):-fluent(F),inertial(F), stepless(S),holds(F,S),not  -holds(F,S+1).
+
+-holds(F,S+1):-fluent(F),inertial(F), stepless(S),-holds(F,S),not  holds(F,S+1).
+
+:-goal,-k_goal.
+:-not  m_goal.
+
+k1_goal:-not k0_goal.
+k0_goal:-not k1_goal.
+
+%%%%%k0_goal:-m0_goal.
+-k_goal:-k0_goal.
+-k_goal:-k1_goal, not goal.
+m1_goal:-not m0_goal.
+m0_goal:-not m1_goal.
+m1_goal:-k1_goal.
+
+m_goal:-m1_goal.
+%%%%%%%%%%m_goal:-m0_goal, not not goal.
+m_goal:-m0_goal, goal.
+
+m1_occurs(A,S):-not m0_occurs(A,S), stepless(S), action(A). %%%%
+m0_occurs(A,S):-not m1_occurs(A,S), stepless(S), action(A).%%%%
+
+m_occurs(A,S):-m1_occurs(A,S), stepless(S), action(A).%%%%
+m_occurs(A,S):-m0_occurs(A,S), not not occurs(A,S), stepless(S), action(A).%%%%
+
+occurs(A,S):-m_occurs(A,S), stepless(S),action(A).%%%%
+
+m1_occurs(A,S) :- occurs(A,S),  action(A), step(S). %%%%
+

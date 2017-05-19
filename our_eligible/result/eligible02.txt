@@ -1,0 +1,17 @@
+Parameters: debug =  False  planning =  False heuristic =  True initials_only =  False  eiter =  False  brave_cautious =  False  and nmax =  1000
+Passed second check ===================! 2
+Belief set of world view:   1 
+[s1(mary), s1(mike), highGPA(mike), eligible(mary), eligible(mike), fairGPA(mary), minority(mary), interview(mike), _model(2)] 
+
+Belief set of world view:   2 
+[s1(mary), s1(mike), eligible(mary), fairGPA(mike), fairGPA(mary), minority(mary), interview(mike), _model(2)] 
+
+Belief set of world view:   3 
+[s1(mary), s1(mike), highGPA(mike), highGPA(mary), eligible(mary), eligible(mike), minority(mary), interview(mike), _model(2)] 
+
+Belief set of world view:   4 
+[s1(mary), s1(mike), highGPA(mary), eligible(mary), fairGPA(mike), minority(mary), interview(mike), _model(2)] 
+
+Number of guesses checked:  1
+K & M atoms:  [k1_eligible(mary)] [k0_eligible(mike), k0_0eligible(mary), k0_0eligible(mike)]
+Elapsed time:  0:00:00.017747

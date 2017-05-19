@@ -1,0 +1,4 @@
+Parameters: debug =  False  planning =  True heuristic =  True initials_only =  False  eiter =  False  brave_cautious =  False  and nmax =  1000
+Number of guesses checked:  1
+K & M atoms:  [m1_goal, m1_occurs(aim,3), m1_occurs(aim,0), m1_occurs(pull_trigger,4), m1_occurs(pull_trigger,1), m1_occurs(load,2)]
+Elapsed time:  0:00:00.055336

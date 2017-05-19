@@ -1,0 +1,4 @@
+Parameters: debug =  False  planning =  True heuristic =  True initials_only =  False  eiter =  True  brave_cautious =  False  and nmax =  1000
+Number of guesses checked:  33
+Program has no world view!
+Elapsed time:  0:00:04.147552

@@ -1,0 +1,67 @@
+% nat,student
+
+eligible(X_G):-highGPA(X_G),student(X_G).
+eligible(X_G):-minority(X_G),fairGPA(X_G),student(X_G).
+-eligible(X_G):--fairGPA(X_G),-highGPA(X_G),student(X_G).
+interview(X_G):--k_eligible(X_G),-k_0eligible(X_G),student(X_G).
+fairGPA(ann)|highGPA(ann).
+highGPA(art).
+fairGPA(mary)|highGPA(mary).
+minority(mary).
+fairGPA(mike)|highGPA(mike).
+highGPA(nancy).
+fairGPA(paul).
+minority(paul).
+fairGPA(pat).
+minority(peter)|highGPA(peter).
+fairGPA(sam)|highGPA(sam).
+minority(sam).
+highGPA(tim).
+-highGPA(tom).
+-fairGPA(tom)|minority(tom).
+-highGPA(van).
+-fairGPA(van).
+minority(van).
+fairGPA(vic)|highGPA(vic).
+minority(vic).
+fairGPA(walt).
+minority(walt).
+highGPA(will).
+fairGPA(yan).
+-minority(yan).
+minority(zac).
+-highGPA(zelda).
+fairGPA(zelda)|-fairGPA(zelda).
+minority(zelda).
+student(ann).
+student(art).
+student(pat).
+student(van).
+student(mike).
+student(walt).
+student(will).
+student(yan).
+student(mary).
+student(nancy).
+student(vic).
+student(tom).
+student(peter).
+student(zelda).
+student(tim).
+student(paul).
+student(zac).
+student(sam).
+k1_eligible(X_G):-not k0_eligible(X_G), student(X_G).
+k0_eligible(X_G):-not k1_eligible(X_G), student(X_G).
+k0_eligible(X_G):-k1_0eligible(X_G).
+k0_eligible(X_G):-m1_0eligible(X_G).
+k0_eligible(X_G):-m0_eligible(X_G).
+-k_eligible(X_G):-k0_eligible(X_G).
+-k_eligible(X_G):-k1_eligible(X_G), not eligible(X_G).
+k1_0eligible(X_G):-not k0_0eligible(X_G), student(X_G).
+k0_0eligible(X_G):-not k1_0eligible(X_G), student(X_G).
+k0_0eligible(X_G):-k1_eligible(X_G).
+k0_0eligible(X_G):-m1_eligible(X_G).
+k0_0eligible(X_G):-m0_0eligible(X_G).
+-k_0eligible(X_G):-k0_0eligible(X_G).
+-k_0eligible(X_G):-k1_0eligible(X_G), not -eligible(X_G).

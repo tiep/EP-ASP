@@ -1,0 +1,4 @@
+Parameters: debug =  False  planning =  True heuristic =  True initials_only =  False  eiter =  False  brave_cautious =  False  and nmax =  1000
+Number of guesses checked:  0
+K & M atoms:  [m1_goal, m1_occurs(dunk(30),0), m1_occurs(dunk(29),27), m1_occurs(dunk(28),10), m1_occurs(dunk(27),26), m1_occurs(dunk(24),15), m1_occurs(dunk(23),4), m1_occurs(dunk(22),5), m1_occurs(dunk(26),28), m1_occurs(dunk(21),9), m1_occurs(dunk(25),29), m1_occurs(dunk(20),20), m1_occurs(dunk(19),22), m1_occurs(dunk(18),3), m1_occurs(dunk(17),21), m1_occurs(dunk(1),6), m1_occurs(dunk(10),2), m1_occurs(dunk(8),19), m1_occurs(dunk(7),25), m1_occurs(dunk(13),16), m1_occurs(dunk(15),17), m1_occurs(dunk(16),11), m1_occurs(dunk(6),24), m1_occurs(dunk(5),1), m1_occurs(dunk(14),14), m1_occurs(dunk(4),12), m1_occurs(dunk(9),8), m1_occurs(dunk(3),23), m1_occurs(dunk(12),18), m1_occurs(dunk(11),7), m1_occurs(dunk(2),13)]
+Elapsed time:  0:00:01.160545

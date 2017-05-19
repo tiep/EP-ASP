@@ -1,0 +1,57 @@
+Parameters: debug =  False  planning =  False heuristic =  True initials_only =  False  eiter =  True  and nmax =  1000
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+Passed second check ===================! 0
+Belief set of world view:   1 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(mike), highGPA(peter), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mike), eligible(mary), eligible(peter), fairGPA(sam), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Belief set of world view:   2 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(peter), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mary), eligible(peter), fairGPA(sam), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Belief set of world view:   3 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(mike), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mike), eligible(mary), fairGPA(sam), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(peter), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Belief set of world view:   4 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mary), fairGPA(sam), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(peter), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Belief set of world view:   5 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(sam), highGPA(mike), highGPA(peter), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mike), eligible(mary), eligible(peter), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Belief set of world view:   6 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(sam), highGPA(peter), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mary), eligible(peter), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Belief set of world view:   7 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(sam), highGPA(mike), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mike), eligible(mary), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(peter), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Belief set of world view:   8 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(sam), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mary), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(peter), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Belief set of world view:   9 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(mike), highGPA(mary), highGPA(peter), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mike), eligible(mary), eligible(peter), fairGPA(sam), fairGPA(pat), fairGPA(paul), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Belief set of world view:   10 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(mary), highGPA(peter), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mary), eligible(peter), fairGPA(sam), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Belief set of world view:   11 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(mike), highGPA(mary), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mike), eligible(mary), fairGPA(sam), fairGPA(pat), fairGPA(paul), minority(peter), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Belief set of world view:   12 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(mary), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mary), fairGPA(sam), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(peter), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Belief set of world view:   13 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(sam), highGPA(mike), highGPA(mary), highGPA(peter), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mike), eligible(mary), eligible(peter), fairGPA(pat), fairGPA(paul), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Belief set of world view:   14 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(sam), highGPA(mary), highGPA(peter), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mary), eligible(peter), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Belief set of world view:   15 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(sam), highGPA(mike), highGPA(mary), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mike), eligible(mary), fairGPA(pat), fairGPA(paul), minority(peter), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Belief set of world view:   16 
+[student(paul), student(pat), student(mary), student(mike), student(sam), student(nancy), student(peter), highGPA(sam), highGPA(mary), highGPA(nancy), eligible(paul), eligible(nancy), eligible(sam), eligible(mary), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(peter), minority(sam), minority(paul), minority(mary), interview(pat), interview(mike), interview(peter), _model(0)] 
+
+Number of guesses checked:  0
+K & M atoms:  ['k1_eligible(paul)', 'k1_eligible(mary)', 'k1_eligible(sam)', 'k1_eligible(nancy)'] ['k0_eligible(pat)', 'k0_eligible(mike)', 'k0_eligible(peter)', 'k0_0eligible(paul)', 'k0_0eligible(pat)', 'k0_0eligible(mary)', 'k0_0eligible(mike)', 'k0_0eligible(sam)', 'k0_0eligible(nancy)', 'k0_0eligible(peter)']
+Elapsed time:  0:00:00.049531

@@ -1,0 +1,4 @@
+Parameters: debug =  False  planning =  True heuristic =  True initials_only =  False  eiter =  False  brave_cautious =  False  and nmax =  1000
+Number of guesses checked:  0
+K & M atoms:  [m1_goal, m1_occurs(flush(2),5), m1_occurs(dunk(1,2),4), m1_occurs(flush(2),3), m1_occurs(dunk(2,2),2), m1_occurs(dunk(3,2),0), m1_occurs(flush(2),1)]
+Elapsed time:  0:00:00.066771

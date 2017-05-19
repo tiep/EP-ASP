@@ -1,0 +1,293 @@
+Parameters: debug =  False  planning =  False heuristic =  True initials_only =  False  eiter =  True  and nmax =  1000
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+---------->not optimal stable model
+--------->optimal stable model
+Passed second check ===================! 44
+Belief set of world view:   1 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   2 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   3 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   4 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   5 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   6 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   7 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   8 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   9 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   10 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   11 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   12 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   13 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   14 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   15 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   16 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   17 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   18 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   19 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   20 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   21 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   22 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(mary), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   23 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   24 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(mary), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   25 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   26 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   27 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   28 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   29 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   30 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(mary), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   31 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   32 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(mary), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(vic), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   33 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   34 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   35 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   36 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   37 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   38 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   39 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   40 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   41 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   42 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   43 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   44 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   45 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   46 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   47 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   48 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(mary), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   49 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   50 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   51 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   52 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   53 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   54 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(mary), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   55 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   56 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(mary), highGPA(will), highGPA(tim), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(sam), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   57 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   58 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   59 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   60 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(peter), highGPA(mary), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(peter), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   61 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   62 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(mary), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(tom), -fairGPA(van), -eligible(tom), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   63 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(mary), highGPA(will), highGPA(tim), highGPA(mike), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(mike), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Belief set of world view:   64 
+[student(sam), student(tim), student(pat), student(peter), student(vic), student(nancy), student(paul), student(tom), student(mike), student(will), student(walt), student(van), student(mary), highGPA(vic), highGPA(mary), highGPA(will), highGPA(tim), highGPA(sam), highGPA(nancy), eligible(vic), eligible(paul), eligible(mary), eligible(will), eligible(tim), eligible(walt), eligible(sam), eligible(nancy), fairGPA(walt), fairGPA(mike), fairGPA(pat), fairGPA(paul), minority(tom), minority(walt), minority(van), minority(vic), minority(sam), minority(peter), minority(paul), minority(mary), -highGPA(van), -highGPA(tom), -fairGPA(van), -eligible(van), interview(pat), interview(peter), interview(tom), interview(mike), _model(44)] 
+
+Number of guesses checked:  22
+K & M atoms:  ['k1_eligible(sam)', 'k1_eligible(tim)', 'k1_eligible(vic)', 'k1_eligible(nancy)', 'k1_eligible(paul)', 'k1_eligible(will)', 'k1_eligible(walt)', 'k1_eligible(mary)', 'k1_0eligible(van)'] ['k0_eligible(pat)', 'k0_eligible(peter)', 'k0_eligible(tom)', 'k0_eligible(mike)', 'k0_eligible(van)', 'k0_0eligible(sam)', 'k0_0eligible(tim)', 'k0_0eligible(pat)', 'k0_0eligible(peter)', 'k0_0eligible(vic)', 'k0_0eligible(nancy)', 'k0_0eligible(paul)', 'k0_0eligible(tom)', 'k0_0eligible(mike)', 'k0_0eligible(will)', 'k0_0eligible(walt)', 'k0_0eligible(mary)']
+Elapsed time:  0:00:13.065023

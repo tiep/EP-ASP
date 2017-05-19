@@ -1,0 +1,19 @@
+#!/bin/bash
+
+PROBS="01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16"
+
+# PROBS="01 02 03"
+
+for domain in $PROBS; do 
+
+   before="$(date +%s)"
+   timeout 60m clingo ../solver_planning_eiter1.py eligible${domain}.elps.elp -q2 --outf=3 -c max=0 -c pre=1 > result/eligible${domain}.txt
+   timeout 60m clingo ../solver_planning_eiter1.py eligible${domain}.elps.elp -q2 --outf=3 -c max=1 -c pre=1 > result/eiter_eligible${domain}.txt  
+   after="$(date +%s)"
+   echo "Time: $after and $before"
+   total_time="$(expr $after - $before)"
+   echo "Time: problem ${domain} --- $total_time" 
+      
+done 
+
+ 

@@ -1,0 +1,11 @@
+Parameters: debug =  False  planning =  False heuristic =  True initials_only =  False  eiter =  False  brave_cautious =  False  and nmax =  1000
+Passed second check ===================! 4
+Belief set of world view:   1 
+[s1(mike), highGPA(mike), eligible(mike), interview(mike), _model(4)] 
+
+Belief set of world view:   2 
+[s1(mike), fairGPA(mike), interview(mike), _model(4)] 
+
+Number of guesses checked:  2
+K & M atoms:  [] [k0_eligible(mike), k0_0eligible(mike)]
+Elapsed time:  0:00:00.019473
