@@ -1,0 +1,23 @@
+% Scholarship Eligibility Problem #1
+%%%%%%%%%%%%%%%%
+% ELPS version %
+%%%%%%%%%%%%%%%%
+
+sorts
+#s1={mike}.
+
+predicates
+eligible(#s1).
+interview(#s1).
+highGPA(#s1).
+fairGPA(#s1).
+minority(#s1).
+student(#s1).
+
+rules
+eligible(X) :- highGPA(X).
+eligible(X) :- minority(X), fairGPA(X).
+-eligible(X) :- -fairGPA(X), -highGPA(X).
+interview(X) :- not K$ eligible(X), not K$ -eligible(X).
+
+highGPA(mike) | fairGPA(mike).

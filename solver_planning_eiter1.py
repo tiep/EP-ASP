@@ -225,8 +225,8 @@ def check_k0_m1(prg, cur_model ):
                     print "Index >>>   ", valueCheck.index(need)   
      
      if retVal == False:
+         if debug == True: print 'Passed second check ===================!', cur_model
          if debug == True or planning != True:
-            print 'Passed second check ===================!', cur_model
             prg.conf.solve.models = 0
             cntWv = 0
             prg.solve(None, on_model =  print_wv)
