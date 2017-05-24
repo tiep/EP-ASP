@@ -1,33 +1,33 @@
 #!/bin/bash
 
-clingo ../solver_planning_eiter1.py yale1.txt -c len=1 -c length=1 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale1.txt
+clingo ../solver.py yale1.txt -c len=1 -c length=1 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale1.txt
 
-clingo ../solver_planning_eiter1.py yale1.txt -c len=1 -c length=1 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale1.txt
+clingo ../solver.py yale1.txt -c len=1 -c length=1 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale1.txt
 
-clingo ../solver_planning_eiter1.py yale2.txt -c len=2 -c length=2 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale2.txt
+clingo ../solver.py yale2.txt -c len=2 -c length=2 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale2.txt
 
-clingo ../solver_planning_eiter1.py yale2.txt -c len=2 -c length=2 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale2.txt
+clingo ../solver.py yale2.txt -c len=2 -c length=2 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale2.txt
 
-clingo ../solver_planning_eiter1.py yale3.txt -c len=1 -c length=3 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale3.txt
+clingo ../solver.py yale3.txt -c len=1 -c length=3 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale3.txt
 
-clingo ../solver_planning_eiter1.py yale3.txt -c len=1 -c length=3 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale3.txt
+clingo ../solver.py yale3.txt -c len=1 -c length=3 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale3.txt
 
-clingo ../solver_planning_eiter1.py yale4.txt -c len=4 -c length=4 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale4.txt
+clingo ../solver.py yale4.txt -c len=4 -c length=4 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale4.txt
 
-clingo ../solver_planning_eiter1.py yale4.txt -c len=4 -c length=4 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale4.txt
+clingo ../solver.py yale4.txt -c len=4 -c length=4 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale4.txt
 
-clingo ../solver_planning_eiter1.py yale5.txt -c len=4 -c length=5 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale5.txt
+clingo ../solver.py yale5.txt -c len=4 -c length=5 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale5.txt
 
-clingo ../solver_planning_eiter1.py yale5.txt -c len=4 -c length=5 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale5.txt
+clingo ../solver.py yale5.txt -c len=4 -c length=5 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale5.txt
 
-clingo ../solver_planning_eiter1.py yale6_7.txt -c len=4 -c length=6 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale6.txt
+clingo ../solver.py yale6_7.txt -c len=4 -c length=6 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale6.txt
 
-clingo ../solver_planning_eiter1.py yale6_7.txt -c len=4 -c length=6 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale6.txt
+clingo ../solver.py yale6_7.txt -c len=4 -c length=6 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale6.txt
 
-clingo ../solver_planning_eiter1.py yale6_7.txt -c len=4 -c length=7 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale7.txt
+clingo ../solver.py yale6_7.txt -c len=4 -c length=7 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale7.txt
 
-clingo ../solver_planning_eiter1.py yale6_7.txt -c len=4 -c length=7 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale7.txt
+clingo ../solver.py yale6_7.txt -c len=4 -c length=7 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale7.txt
 
-clingo ../solver_planning_eiter1.py yale8.txt -c len=8 -c length=8 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale8.txt
+clingo ../solver.py yale8.txt -c len=8 -c length=8 -c planning=1 -c debug=0 -c pre=0 -c max=0 -q2 --outf=3 > result/yale8.txt
 
-clingo ../solver_planning_eiter1.py yale8.txt -c len=8 -c length=8 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale8.txt
+clingo ../solver.py yale8.txt -c len=8 -c length=8 -c planning=1 -c debug=0 -c pre=0 -c max=1 -q2 --outf=3 > result/eiter_yale8.txt

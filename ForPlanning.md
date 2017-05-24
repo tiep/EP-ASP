@@ -16,7 +16,7 @@
  (****) How to run EP-ASP
 + Run the command:
 
-	clingo solver_planning1.py [input_file] -c len=<len> -c length=<length> -c planning=1 -c heuristic=1  [options] -q2 --outf=3 
+	clingo solver.py [input_file] -c len=<len> -c length=<length> -c planning=1 -c heuristic={0|1}  [options] -q2 --outf=3 
 
 where:
     
@@ -32,7 +32,7 @@ where:
     ``-c planning=1" specifies EP-ASP is solving a conformant planning problem. If -c planning=1, the [input_file] must be under ``Conformant Planning" Format
 
     
-    ``-c heuristic=1" specifies EP-ASP is using the heuristic (mentioned in paper [Son et al., IJCAI-17]). If -c heuristic=1, it must be -c planning=1;
+    ``-c heuristic={0|1}" specifies whether EP-ASP uses the heuristic (mentioned in paper [Son et al., IJCAI-17]). If -c heuristic=1, it must be -c planning=1;
 
 
 	[options] are:			
@@ -45,7 +45,7 @@ where:
 
 Example: Command to run 'bomb in the toilet with uncertain clog' with 3 packages using heuristic and using conformant planning format is:
 
-	clingo solver_planning1.py btuc_conf.lp -c np=3 -c len=1 -c length=6 -c planning=1 -c heuristic=1 -q2 --outf=3
+	clingo solver.py btuc_conf.lp -c np=3 -c len=1 -c length=6 -c planning=1 -c heuristic=1 -q2 --outf=3
 
  
 ****Furthermore, you might want to start clingo using the ``-q2 --outf=3" option to disable all output from clingo.

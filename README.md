@@ -20,7 +20,7 @@
 
 + ForPlanning.md is the file consisting instructions how to run EP-ASP specifically for planning mode.
 
-+ solver_planning1.py is EP-ASP system.
++ solver.py is EP-ASP solver.
 
 + script_bomb.sh is a script to run experiments on ``bomb in the toilet" problems. 
 
@@ -41,7 +41,7 @@
 
 	java -jar elps.jar [ELPS file] -o
 
-	clingo solver_planning1.py [ELPS file].elp [options] -q2 --outf=3  
+	clingo solver.py [ELPS file].elp [options] -q2 --outf=3  
 
 where:
 	[ELPS file] is an ELP file under ELPS format (see ELPS_manual.pdf)
@@ -64,7 +64,7 @@ where:
 
 	java -jar elps.jar eligible01.elps -o
 
-	clingo solver_planning_eiter1.py eligible01.elps.elp -c pre=1 -c max=1 -q2 --outf=3
+	clingo solver.py eligible01.elps.elp -c pre=1 -c max=1 -q2 --outf=3
   
 
 Note that the output of the first command is the file ``eligible01.elps.elp", that is used as input for the second command. 
